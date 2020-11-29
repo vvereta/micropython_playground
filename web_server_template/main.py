@@ -29,7 +29,7 @@ def do_wifi_connect():
 
 html = """<!DOCTYPE html>
 <html>
-    <head> <title>ESP8266 Pins</title> </head>
+    <head> <title>ESP8266</title> </head>
     <body>
         <h1>Hello!</h1>
     </body>
